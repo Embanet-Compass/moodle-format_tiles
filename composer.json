@@ -1,0 +1,11 @@
+{
+  "name": "embanet-compass/moodle-format_tiles",
+  "type": "moodle-format",
+  "description": "Tiles course format for Moodle 33+",
+  "extra": {
+    "installer-name": "tiles",
+    "moodle": {
+      "package_folder_name": "tiles"
+    }
+  }
+}
